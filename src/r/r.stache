@@ -1,0 +1,3 @@
+  <can-import from="donejs-hello-world/s/s" />
+
+  <my-s />

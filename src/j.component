@@ -1,0 +1,14 @@
+<can-component tag="my-j">
+  <view>
+    <p>{{message}}</p>
+  </view>
+  <script type="view-model">
+    import DefineMap from 'can-define/map/';
+
+    export default DefineMap.extend({
+      message: {
+        value: 'This is the my-j component'
+      }
+    });
+  </script>
+</can-component>

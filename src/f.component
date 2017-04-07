@@ -1,0 +1,6 @@
+<can-component tag="my-f">
+  <view>
+    <can-import from="donejs-hello-world/g.component" />
+    <my-g />
+  </view>
+</can-component>
